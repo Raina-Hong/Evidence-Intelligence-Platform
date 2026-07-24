@@ -65,7 +65,6 @@ The research focuses on three primary stakeholder groups.
 | Investigation Analysts | Understand repetitive operational tasks and evidence organization. |
 
 ---
-
 ## Research Methodology
 
 Because this project is currently at the Product Discovery stage, qualitative research methods are prioritized.
@@ -78,6 +77,12 @@ Research methods include:
 - Secondary research from industry reports, product documentation and public case studies
 
 Primary interviews help uncover user behaviors and unmet needs, while secondary research provides additional industry context and validates recurring patterns.
+
+## Research Scope
+
+This portfolio project combines secondary research, competitive analysis and publicly available industry resources to understand enterprise investigation workflows.
+
+The findings presented in this document represent hypotheses that should be validated through future interviews and field studies with target users.
 
 ---
 
